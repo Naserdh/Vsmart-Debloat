@@ -18,7 +18,6 @@ echo "$D Debloat VSMART"
 sleep 3
 echo -e $M "Github $I https://github.com/Naserdh"
 sleep 3
-packages=(
 com.vsmart.android.movetovsmartnull #Chuyển Dữ Liệu 
 pm uninstall --user 0 com.google.android.apps.docs #Drive
 pm uninstall --user 0 com.android.fmradio #Đài FM
