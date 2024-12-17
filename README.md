@@ -1,4 +1,3 @@
-# Debloat
+# Debloat Vsmart
 
-Hiện Tại Mình Đang Làm Debloat Redmi Nhá , Máy redmi đó nó nhiều app rác ......
 
